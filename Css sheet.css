@@ -1,0 +1,31 @@
+.text {
+  background: url(./pexels-markus-spiske-369267.jpg) center/cover no-repeat;
+  margin: 0%;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.text1 {
+  background: url(./pexels-george-dolgikh-giftpunditscom-2072149.jpg)
+    center/cover no-repeat;
+  margin: 0%;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.shittymeme {
+  background: url(./60rq24.jpg) center/cover no-repeat;
+  margin: 0%;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+.clearfix {
+  clear: both;
+}
